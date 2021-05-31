@@ -1,0 +1,10 @@
+.card{
+    width: 18rem;
+}
+
+.card-body{
+    overflow-y: auto;
+    padding: 20px 10px 20px 10px;
+    margin: 5px 5px 5px 5px;
+}
+
